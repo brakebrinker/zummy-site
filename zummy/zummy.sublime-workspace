@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fl",
+				"flex__row\t(style.css)"
+			],
+			[
+				"mar",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gutt",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Macintoch/Job/Developer/projects/python/zummy"
+	],
+	"file_history":
+	[
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/pivot/pivot.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/views/dataset_views.py",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/urls.py",
+		"/Users/max/Virtualenvs/web_test/lib/mezzanine/blog/views.py",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/docs/urls.py",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/docs/views.py",
+		"/Volumes/Macintoch/Job/Developer/projects/test_vue/index.html",
+		"/Volumes/Macintoch/Job/Developer/projects/custom-checkestates/test.php",
+		"/Volumes/Macintoch/Job/Developer/projects/custom-checkestates/manager/config.core.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Volumes/Macintoch/Job/Developer/projects/custom-checkestates/core/config/config.inc.php",
+		"/Volumes/Macintoch/Job/Developer/projects/www/montirovka/config.core.php",
+		"/Volumes/Macintoch/Job/Developer/projects/www/custom-checkestates/config.core.php",
+		"/Volumes/Macintoch/Job/Developer/projects/www/custom-checkestates/core/cache/logs/error.log",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-xampp.conf",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/landing/index_alter.html",
+		"/Users/max/Virtualenvs/web_test/static/css/structure.css",
+		"/Users/max/Virtualenvs/web_test/static/css/search.css",
+		"/Users/max/Virtualenvs/web_test/.gitignore",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/search/dataset_table.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/docs/api.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/docs/docs.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/rest_framework/api.html",
+		"/Users/max/Virtualenvs/web_test/static/css/docs_style.css",
+		"/Users/max/Virtualenvs/web_test/static/js/docs-initial.js",
+		"/Users/max/Virtualenvs/web_test/static/css/dataset.css",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/about.html",
+		"/Users/max/Virtualenvs/web_test/static/css/blog_style.css",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/blog/blog_post_list.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/blog/blog_base.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/generic/includes/comments.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/base.html",
+		"/Users/max/Virtualenvs/web_test/lib/analytical/utils.py",
+		"/Users/max/Virtualenvs/web_test/static/css/d3customstyle.css",
+		"/Users/max/Virtualenvs/web_test/static/js/views.js",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/blog/blog_post_detail.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/header.html",
+		"/Users/max/Virtualenvs/web_test/static/js/search.js",
+		"/Users/max/Virtualenvs/web_test/static/js/cookies.js",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/download_formats.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/profile/registration/activation_complete.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/calendar.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/services/services.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/errorhtml/404.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/errorhtml/500.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/subscription/plan_list.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/policy/termsofsale.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/policy/privacy.html",
+		"/Users/max/Virtualenvs/web_test/thewebsite0/templates/policy/tac.html",
+		"/Users/max/Virtualenvs/econdb/manage.py",
+		"/Users/max/Virtualenvs/econdb/mysite/urls.py",
+		"/Users/max/Virtualenvs/econdb/.gitignore",
+		"/Users/max/Virtualenvs/econdb/blog/urls.py",
+		"/Volumes/Macintoch/Job/Developer/projects/dhl_origin/elements/chunks/meta.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/dhl/elements/chunks/meta.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/dhl/js/main.js",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/templates/innerPage.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/templates/contacts.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/chunks/meta.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/chunks/header.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/css/style.css",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/templates/services.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/templates/akcii.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/chunks/akciiRow.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/sftp-config.json",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/css/grid.css",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/templates/home.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/css/linkblock_4.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/chunks/linkblock_3.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/chunks/linkblock_2.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/chunks/linkblock.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/dhl/elements/templates/_base.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/components/themebootstrap/css/style.css",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/gulpfile.js",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/components/themebootstrap/elements/chunks/chunk.head.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/components/themebootstrap/elements/chunks/chunk.navbar.tpl",
+		"/Volumes/Macintoch/Job/Developer/projects/job/dhl/app/assets/components/themebootstrap/elements/chunks/chunk.content.main.tpl"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"/blog",
+			"tree_view",
+			"data_set",
+			"tree_view",
+			"more_like_dataset_full",
+			"data",
+			"sear",
+			"формати",
+			"sear",
+			"-theme",
+			"meta_description",
+			"api_content",
+			"Api Root",
+			"api",
+			"header",
+			"docs",
+			"api",
+			"bl",
+			"blog",
+			"normal-img",
+			"<style>",
+			"normal-img",
+			".right",
+			"right",
+			"favi",
+			"request",
+			".html",
+			"blo",
+			"blog",
+			"request",
+			"lightgreen",
+			"lightblue",
+			"tac",
+			"foot_container",
+			"box7",
+			"box5",
+			"box4",
+			"box3",
+			"{",
+			"}",
+			"boxlength",
+			"length:\"337\",",
+			"]",
+			"[",
+			"        [",
+			"[",
+			"182",
+			".services__docs--text",
+			".services__docs--text a, .services__pravo--text a",
+			"      \n",
+			"\">\n",
+			" \n",
+			"slider__navi",
+			"col-",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 30.0
+	},
+	"pinned_build_system": "",
+	"project": "zummy.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
